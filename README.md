@@ -32,5 +32,5 @@ DCGANs for generating satellite images can have numerous applications, including
 
 DCGANs offer a powerful framework for generating realistic satellite images, enabling advancements in satellite image analysis, simulation, and visualization. Through the utilization of deep convolutional networks and adversarial training, DCGANs can learn and generate satellite images with intricate details and spatial coherence.
 
-For more details, please refer to the [GitHub repository](https://github.com/carpedm20/DCGAN-tensorflow)
+For more details,[GitHub repository](https://github.com/carpedm20/DCGAN-tensorflow)
 
